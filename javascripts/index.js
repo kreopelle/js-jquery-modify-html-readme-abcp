@@ -3,5 +3,5 @@ $(document).ready(function() {
 });
 
 function heyEverybody() {
- $("#yo").append("Hey Everybody!"); 
+ $("#yo").append("Hey Everybody!!"); 
 }
